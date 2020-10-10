@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mavenapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-10T00:46:33.078720149Z"
+    description: A Helm chart for Kubernetes
+    digest: 1295cddf76d7dc6ee3e8af60dd99161d947c854f8e2304fb226ff09aee38eabd
+    name: mavenapp
+    type: application
+    urls:
+    - https://landmaktechnology.github.io/helmrepomaven/mavenapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-10T00:46:33.077967202Z"
